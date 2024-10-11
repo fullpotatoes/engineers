@@ -1,6 +1,11 @@
 body {
     font-family: Arial, sans-serif;
+<<<<<<< HEAD
     background-color: #FDD8D0;
+=======
+    background-color: #FDD8D0
+;
+>>>>>>> b29d28822f5c66e95c81a8b15a514c0bdb72f7ea
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,7 +37,11 @@ body {
 .photo-caption p {
     margin: 5px 0 0;
     color: #777;
+<<<<<<< HEAD
 }
 a{
+=======
+}a{
+>>>>>>> b29d28822f5c66e95c81a8b15a514c0bdb72f7ea
     text-decoration: none;
 }
